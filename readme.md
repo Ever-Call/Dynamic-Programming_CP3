@@ -9,5 +9,5 @@
 | Integrante 3 | RA-XXXXX |
 
 **Disciplina:** Dynamic Programming  
-**Professor:** Andre Marques  
+**Professor:** André Marques  
 **Checkpoint:** Checkpoint 3 
