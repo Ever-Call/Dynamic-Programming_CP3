@@ -1,4 +1,4 @@
-# FIAP — Dynamic Programming | Checkpoint 2
+# FIAP — Dynamic Programming
 
 ## Identificação do Grupo
 
