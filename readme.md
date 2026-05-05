@@ -4,9 +4,7 @@
 
 | Nome Completo | RA |
 |---|---|
-| Integrante 1 | RA-XXXXX |
-| Integrante 2 | RA-XXXXX |
-| Integrante 3 | RA-XXXXX |
+| Ever Callisaya Amaru | RM563971 |
 
 **Disciplina:** Dynamic Programming  
 **Professor:** André Marques  
